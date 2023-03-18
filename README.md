@@ -4,10 +4,10 @@
 #### for Regolith Desktop 2.2
 
 ##### Extract
-##### Regolith-Look-Everforest.tar.xz
+##### Regolith-Look-Catppuccin.tar.xz
 ##### to /usr/share/themes/ - /usr/share/icons/ - /usr/share/regolith-look/
 
-##### Press SUPER+ALT+L to select the new Everforest look
+##### Press SUPER+ALT+L to select the new Catppuccin look
 
 ![Screenshot](Catppuccin-Frappe_01.png)
 ![Screenshot](Catppuccin-Frappe_02.png)
