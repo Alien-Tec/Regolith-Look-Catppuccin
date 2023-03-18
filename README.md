@@ -4,7 +4,7 @@
 #### for Regolith Desktop 2.2
 
 ##### Extract
-##### Regolith-Look-Catppuccin.tar.xz
+##### Regolith-Look-Catppuccin.7z.001
 ##### to /usr/share/themes/ - /usr/share/icons/ - /usr/share/regolith-look/
 
 ##### Press SUPER+ALT+L to select the new Catppuccin look
