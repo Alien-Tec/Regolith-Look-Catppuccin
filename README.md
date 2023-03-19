@@ -5,7 +5,7 @@
 
 ##### Extract
 ##### Regolith-Look-Catppuccin.tar.xz.partaa and Regolith-Look-Catppuccin.tar.xz.partab
-##### (Sorry, no single file because of github file size limit)
+###### (Sorry, no single file because of github file size limit)
 ##### to /usr/share/themes/ - /usr/share/icons/ - /usr/share/regolith-look/
 
 ##### Press SUPER+ALT+L to select the new Catppuccin look
