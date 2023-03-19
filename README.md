@@ -9,11 +9,18 @@
 
 ##### Press SUPER+ALT+L to select the new Catppuccin look
 
+##### Frappe
 ![Screenshot](Catppuccin-Frappe_01.png)
 ![Screenshot](Catppuccin-Frappe_02.png)
+
+##### Latte
 ![Screenshot](Catppuccin-Latte_01.png)
 ![Screenshot](Catppuccin-Latte_01.png)
+
+##### Macchiato
 ![Screenshot](Catppuccin-Macchiato_01.png)
 ![Screenshot](Catppuccin-Macchiato_02.png)
+
+##### Mocha
 ![Screenshot](Catppuccin-Mocha_01.png)
 ![Screenshot](Catppuccin-Mocha_02.png)
