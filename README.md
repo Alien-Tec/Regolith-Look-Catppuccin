@@ -16,7 +16,7 @@
 
 ###### Latte:
 ![Screenshot](Catppuccin-Latte_01.png)
-![Screenshot](Catppuccin-Latte_01.png)
+![Screenshot](Catppuccin-Latte_02.png)
 
 ###### Macchiato:
 ![Screenshot](Catppuccin-Macchiato_01.png)
